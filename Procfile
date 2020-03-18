@@ -1,1 +1,1 @@
-web: gunicorn natuart.wsgi:application
+web: gunicorn main.wsgi:application
